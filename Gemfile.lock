@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    vestal_versions (1.6.1)
+    vestal_versions (1.7.0)
       activerecord (>= 6.1, < 8.2)
       activesupport (>= 6.1, < 8.2)
 

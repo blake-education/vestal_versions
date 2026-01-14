@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/blake-education/vestal_versions/compare/v1.6.1...v1.7.0) (2026-01-14)
+
+
+### Miscellaneous Chores
+
+* release 1.7.0 ([13a9fa3](https://github.com/blake-education/vestal_versions/commit/13a9fa3e9628c846239321640805d54344857489))
+
 ## [1.6.1](https://github.com/blake-education/vestal_versions/compare/v1.6.0...v1.6.1) (2025-05-21)
 
 
